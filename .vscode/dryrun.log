@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/workspace/Polimorfismo_A01742342'
+make: Leaving directory '/workspace/Polimorfismo_A01742342'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
