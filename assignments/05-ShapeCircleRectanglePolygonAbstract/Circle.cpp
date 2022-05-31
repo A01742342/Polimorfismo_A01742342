@@ -17,7 +17,7 @@ int Circle::getRadio()
 
 std::string Circle::draw()
 {
-    return "soy un circulo";
+    return "Soy un circulo";
 }
 
 double Circle::getArea()

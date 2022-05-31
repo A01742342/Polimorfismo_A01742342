@@ -15,7 +15,7 @@ Rectangle::Rectangle(int valX, int valY, int valX1, int valY1) : Shape {valX, va
 
 std::string Rectangle::draw()
 {
-    return "soy un rectangulo";
+    return "Soy un rectangulo";
 }
 
 double Rectangle::getArea()
